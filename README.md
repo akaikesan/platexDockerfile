@@ -1,4 +1,4 @@
-## Compile in VSode on Save.
+## Compile in VSode on Save on MAC (Apple silicon).
 With this workflow, you can compile pTex(Japanese Tex) source code with pLatex(Latex of pTex) in tex to pdf.
 You don't have to install texlive in your local environment.
 
